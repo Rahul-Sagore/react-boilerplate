@@ -4,7 +4,12 @@ BoilerPlate for React v16.2 With WebPack v4
 # Setup Instructions
 
 * Clone the repo
-* `cd repo` 
+
+* Run these commands on terminal:
+
+```bash
+  cd react-boilerplate
+```
 
 ```bash
   npm install
