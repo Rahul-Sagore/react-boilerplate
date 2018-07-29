@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+#header {
+  background: #F44336;
+  color: white;
+  text-align: center;
+  font-size: 24px;
+
+  .react-logo {
+    width: 80px;
+    vertical-align: middle;
+  }
+}
