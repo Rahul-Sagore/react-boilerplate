@@ -1,5 +1,5 @@
 # react-boilerplate
-BoilerPlate for React v16.2 With WebPack v4
+BoilerPlate for WebPack v4 + React v16.2 + ES6 + SCSS + Eslint Setup
 
 # Setup Instructions
 
@@ -21,4 +21,4 @@ BoilerPlate for React v16.2 With WebPack v4
 
 Now Open localhost:8080 in browser
 
-**Note:** Main App code is inside /src/App.js . Entry point is /src/index.js
+**Note:** Main App code is inside /src/App/App.js . Entry point is /src/index.js
