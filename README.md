@@ -1,5 +1,5 @@
 # react-boilerplate
-BoilerPlate for React v16.2 With WebPack v4
+BoilerPlate for React v16.2 + WebPack v4 + SASS + ES6 + Eslint
 
 # Setup Instructions
 
